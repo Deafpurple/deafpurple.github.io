@@ -1,5 +1,6 @@
 function main(){
-	VK.init(onSuccess, onFail, "5.103");
+	alert(VK);
+	//VK.init(onSuccess, onFail, "5.103");
 	//alert ("Main!");
 }
 
