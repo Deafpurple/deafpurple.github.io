@@ -4,7 +4,7 @@ function main(){
 }
 
 function onSuccess(){
-	alert ("Success!");
+	alert ("Success2!");
 }
 
 function onFail(){
